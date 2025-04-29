@@ -1,3 +1,3 @@
 # People-Counter
 
-<div align= center><img src="aa.PNG"/></div>
+![](https://github.com/cakiryusuff/People-Counter/blob/main/aa.PNG)
